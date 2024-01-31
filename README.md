@@ -1,10 +1,10 @@
 <h2><strong>Technologies Used</strong><h2>
 <h3><strong>The project utilizes the following technologies:</strong></h3>
 
-<h4>Node.js</h4><br>
-<h4>JavaScript</h4><br>
-<h4>PostgreSQL</h4><br>
-<h4>ORM Sequelize</h4><br>
+<p>Node.js</p><br>
+<p>JavaScript</p><br>
+<p>PostgreSQL</p><br>
+<p>ORM Sequelize</p><br>
 
 <h3><strong>Service Endpoints</strong></h3>
 
