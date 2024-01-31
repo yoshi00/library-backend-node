@@ -1,4 +1,3 @@
-<h2><strong>Technologies Used</strong><h2>
 <h3><strong>The project utilizes the following technologies:</strong></h3>
 
 <p>Node.js</p><br>
